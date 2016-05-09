@@ -1,8 +1,8 @@
 # Jack Murphy CV
 
-I am a full stack Javascript developer interested to learn best practices, and writing readable and testable code.
+I am a hard-working Mathematics graduate, for the last three years I have been teaching Maths in a Vietnamese secondary school whilst living in Hanoi. I am highly adaptable and resourceful; since graduating I have set up and run both a small gardening business and tennis coaching programs. Now working as a freelance Javascript developer, I particularly enjoy the problem solving aspect of coding and more recently have loved working as part of a team at Founders and Coders to build full stack web applications.  I am focused on continuing to learn best practices, and writing readable and testable code.
 
-Having studied and then taught Mathematics, I particularly enjoy the problem solving aspect of coding and more recently have loved working as part of a team to build full stack web applications.
+
 
 ## SKILLS
 
