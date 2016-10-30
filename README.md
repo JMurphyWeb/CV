@@ -11,20 +11,30 @@ I have been working on a variety of projects, using the following technologies:
 |Languages 	|Frameworks/Libraries	|Testing| Tools/Others|Databases|
 |:--------:|:---------------------:|:------:|:-----------:|:-----------------------:|
 |Javascript	|Hapi.js	              |Tape     	  |Git	          |Redis
-|Node.js   	|React.js	            |Mocha	      |npm
+|Node.js   	|React.js & React Native	            |Mocha	      |npm	          |MySQL
 |HTML5     	|Bootstrap  	          |QUnit	      |Heroku
-|CSS3      	|jQuery	              |Jasmine
-
+|CSS3      	|jQuery	              |Jasmine	      |AWS S3
+|      	|Handlebars
+|      	|Sails.js
 
 ## FOUNDERS & CODERS PROJECTS
 
+#### [Ellen MacArther Foundation CE100 app](https://github.com/foundersandcoders/sail-back)
+
+Ideas and problem sharing platform designed for the members of the EMF CE100 scheme. This MVP was built in 2 sprints with one other developer. It is currently in user testing and a further 2 sprints are to start imminently. Built using Hapi and Handlebars.
+
+#### [Friends of Chichester Harbour](https://github.com/foundersandcoders/sail-back)
+
+Membership management system and members portal where they can update their personal information and make payments to the charity.  This project was written with a Sails.js backend and React.js front end, written using functional style with the assistance of Ramda.js and Sancturary.js.  The application is currently used in production and is still being improved.
+
+#### [HUB App](https://github.com/FAC7/anna-freud-hub)
+
+HUB is a safe and secure place for NHS staff to post events specifically for past and current patients who have suffered from depression or anxiety. Admin interface built using handlebars.js and the end users front end was designed as a native mobile app built using React Native. Currently being tested.
+
+
 #### [Reuse App](https://github.com/JMurphyWeb/onpurposehack)
 
-Startup idea focused on easing the process of offering your unwanted items for free to anyone nearby who may want. Written over the Twitter API with Reactjs on the front end. [View the app](http://reuseapp.herokuapp.com/).
-
-#### [Oxfizz](https://github.com/JMurphyWeb/worthwhile-hackathon)
-
-Rebuilding how charity Oxfizz registers new volunteers and implemented a filtering system to speed up sorting process. Private application.
+Startup idea focused on easing the process of offering your unwanted items for free to anyone nearby who may want. Written over the course of 2 days using Twitter API with Reactjs on the front end. [View the app](http://reuseapp.herokuapp.com/).
 
 #### [Stopwatch](https://github.com/vanillasquad/stopwatch-jack-elias)
 Built as an exercise to learn test driven development. A fully tested stopwatch available on the [chrome store](https://chrome.google.com/webstore/detail/stopwatch/dcaienkchlfpbcjkalkhbbcaohecmodp)
